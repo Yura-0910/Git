@@ -11,7 +11,8 @@
 * в .gitignore добавил:\
 .idea/sonarlint/\
 .idea/sonarlint/**\
-.PVS-Studio/
+.PVS-Studio/\
+.idea/
 * выполняем БЕЗ "sudo" следующие команды:
 * cd ...путь к проекту
 * git init
